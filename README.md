@@ -1,4 +1,4 @@
-# React Todo
+# WASM Rust / React Todo
 
 Example Using https://github.com/yishn/wasm-react
 
