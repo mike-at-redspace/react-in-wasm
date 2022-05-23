@@ -168,7 +168,7 @@ impl Component for TaskItem {
         if self.done {
           h!(del).build(c![*self.description])
         } else {
-          h!(span).build(c![*self.description])
+          h!(ins).build(c![*self.description])
         },
       ])
     ])
